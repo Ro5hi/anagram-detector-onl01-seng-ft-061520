@@ -14,5 +14,9 @@ class Anagram
         arry << anagram 
       end 
     end
+    
     arry 
-  end 
+    
+  end
+  
+end
